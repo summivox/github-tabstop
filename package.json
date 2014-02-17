@@ -1,16 +1,16 @@
 {"name": "github-tabstop"
 ,"description": "add tabstop option for hard tabs (works for github/gist)"
 ,"version": "0.1.0"
-,"homepage": "https://github.com/smilekzs/github-tabstop"
+,"homepage": "https://github.com/summivox/github-tabstop"
 ,"author":
-  {"name": "smilekzs"
+  {"name": "summivox"
   }
 ,"repository":
   {"type": "git"
-  ,"url": "git://github.com/smilekzs/github-tabstop.git"
+  ,"url": "git://github.com/summivox/github-tabstop.git"
   }
 ,"bugs":
-  {"url": "https://github.com/smilekzs/github-tabstop/issues"
+  {"url": "https://github.com/summivox/github-tabstop/issues"
   }
 ,"licenses":
   [ {"type": "MIT"
